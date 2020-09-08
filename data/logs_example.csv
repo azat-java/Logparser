@@ -1,0 +1,15 @@
+﻿Connected to the target VM, address: '127.0.0.1:65162', transport: 'socket' 
+2019-08-30 20:43:37.407 [main] INFO ru.javastudy.examples.User - This is some message 
+2019-08-30 20:43:37.407 [main] INFO ru.javastudy.examples.User - This is some message 
+2019-08-30 20:43:37.409 [worker-5] INFO ru.javastudy.examples.User - 427613566 
+2019-08-30 20:43:37.409 [main] INFO ru.javastudy.examples.User - 427613566 
+2019-09-30 20:43:37.409 [main] INFO - Root Logger: This is some message 
+2019-08-30 20:43:37.409 [worker-10] DEBUG - RootLogger: In debug message 
+2019-06-15 20:43:37.409 [main] DEBUG ru.javastudy.examples.User - UserLogger in debug 
+2019-08-30 20:43:37.409 [main] DEBUG ru.javastudy.examples.User - UserLogger in debug 
+2019-08-30 20:43:37.412 [worker-2] ERROR ru.javastudy.examples.User - error message: null 
+2019-08-30 20:43:37.412 [main] ERROR ru.javastudy.examples.User - error message: null 
+2019-08-30 20:43:37.412 [main] FATAL ru.javastudy.examples.User - fatal error message: null 
+2019-08-30 20:43:37.412 [worker-1] FATAL ru.javastudy.examples.User - fatal error message: null 
+Disconnected from the target VM, address: '127.0.0.1:65162', transport: 'socket' 
+Process finished with exit code 0
